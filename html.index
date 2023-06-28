@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+<meta charset="UTF-8">
+
+<title>Glabella | Ecommerce Website Design</title>
+<link rel="stylesheet" href="style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com"> 
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+<link href="https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/fontawesome.min.css">
+
+
+</head>
+ <body style="background-color:  #00000217"> 
+    <div class="header">    
+
+    <div class="container">
+        <div class="top-nav">
+                   
+                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" class="icon"  viewBox="0 0 18 18">
+                    <path d="M8 1a2.5 2.5 0 0 1 2.5 2.5V4h-5v-.5A2.5 2.5 0 0 1 8 1zm3.5 3v-.5a3.5 3.5 0 1 0-7 0V4H1v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V4h-3.5zM2 5h12v9a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V5z"/>
+                  </svg>
+                
+
+                  <img src="images/official.png" width="350px">
+
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="icon" viewBox="0 0 16 16">
+                    <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/>
+                  </svg>
+          
+        </div>
+
+        <div class="navbar">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Shop</a></li>
+            <li><a href="#">Contact</a></li>
+            <li><a href="#">Store policy</a></li>
+                
+            </div>
+
+           
+
+
+                
+           
+
+    
+   
+    
+        
+        <div class="row">
+            <div class="col-2">
+                <h1>Welcome to<br> Glabella ! </h1>
+                <p>Here you will find a variety of trendy crocheted bags <br>fit for any carrying need </p>
+                <a href=""class="btn">Shop Now &#10174;</a>
+            </div>
+            <div class="col-2">
+              
+                
+                <img src="images/front page pic.png">
+                
+    
+            </div>
+                
+                
+            </div>
+        </div>
+    </div>
+</div>
+<!----featured catagories----->
+
+ <div class="catergories">
+    <div class="small-container">
+        <div class="row">
+            <div class="col-3">
+                <img src="images/item 1.jpg">
+            </div>
+            <div class="col-3">
+                <img src="images/item3.jpg">
+            </div>
+            <div class="col-3">
+                <img src="images/item4.jpg">
+            </div>  
+    </div>
+    
+    </div>
+ </div>
+
+    <!----featured products----->
+<div class="small-container">
+    <h2 class="title"> Featured products</h2>
+    
+    <div class="row">
+        <div class="col-4">
+            <img src="images/product 1.jpg">
+            <h4>calm sugar princess bag</h4>
+            <div class="rating">
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star-o" ></i>
+            </div>
+            <p>R500.00</p>
+        </div>
+        <div class="col-4">
+            <img src="images/product 6.jpg">
+            <h4>black goddess bag</h4>
+            <div class="rating">
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star-o" ></i>
+            </div>
+            <p>R500.00</p>
+        </div>
+        <div class="col-4">
+            <img src="images/product 5.jpg">
+            <h4>cartoon bag</h4>
+            <div class="rating">
+                <i class="fa fa-star" ></i> 
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star-o" ></i>
+            </div>
+            <p>R500.00</p>
+        </div>
+        <div class="col-4">
+            <img src="images/product 4.jpg">
+            <h4>settled baddie bag</h4>
+            <div class="rating">
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star-o" ></i>
+            </div>
+            <p>R500.00</p>
+        </div>
+    </div>
+    <!----Latest products ----->
+    <h2 class="title">Latest Products</h2>
+    <div class="row">
+        <div class="col-4">
+            <img src="images/product 7.jpg">
+            <h4>calm sugar princess bag</h4>
+            <div class="rating">
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star-o" ></i>
+            </div>
+            <p>R500.00</p>
+        </div>
+        <div class="col-4">
+            <img src="images/product 8.jpg">
+            <h4>black goddess bag</h4>
+            <div class="rating">
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star-o" ></i>
+            </div>
+            <p>R500.00</p>
+        </div>
+        <div class="col-4">
+            <img src="images/product 9.jpg">
+            <h4>cartoon bag</h4>
+            <div class="rating">
+                <i class="fa fa-star" ></i> 
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star-o" ></i>
+            </div>
+            <p>R500.00</p>
+        </div>
+        <div class="col-4">
+            <img src="images/product 10.jpg">
+            <h4>settled baddie bag</h4>
+            <div class="rating">
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star-o" ></i>
+            </div>
+            <p>R500.00</p>
+        </div>
+        <!--latest products 2nd row-->
+        <div class="col-4">
+            <img src="images/product 11.jpg">
+            <h4>calm sugar princess bag</h4>
+            <div class="rating">
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star-o" ></i>
+            </div>
+            <p>R500.00</p>
+        </div>
+        <div class="col-4">
+            <img src="images/product 12.jpg">
+            <h4>black goddess bag</h4>
+            <div class="rating">
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star-o" ></i>
+            </div>
+            <p>R500.00</p>
+        </div>
+        <div class="col-4">
+            <img src="images/product 14.jpg">
+            <h4>cartoon bag</h4>
+            <div class="rating">
+                <i class="fa fa-star" ></i> 
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star-o" ></i>
+            </div>
+            <p>R500.00</p>
+        </div>
+        <div class="col-4">
+            <img src="images/product 15.jpg">
+            <h4>settled baddie bag</h4>
+            <div class="rating">
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star" ></i>
+                <i class="fa fa-star-o" ></i>
+            </div>
+            <p>R500.00</p>
+        </div>
+    </div>
+</div>
+<!--offer-->
+<div class="offer">
+    <div class="small-container">
+        <div class="row">
+            <div class="col-2">
+<img src="images/product 16.jpg" class="offer-img">
+            </div>
+            <div class="col-2">
+                <p>Exclusively available at Glabella</p>
+                <h1> All denim bag</h1>
+                <medium >This all denim bag is crocheted from freehand cut denim fabric  
+                    and utilized to create a trendy and unique feel.</medium>
+                     <br> <a href=""class="btn">Buy Now &#10174;</a>
+                  
+
+            </div>
+        </div>
+    </div>
+</div>
+ <!----footer----->
+ <div class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="footer-contact">
+                <ul>
+                    <li><a href="News">News</a></li>
+                    <li><a href="Products">Products</a></li>
+                    <li><a href="Contact">Contact</a></li>
+                </ul>
+            </div>
+       
+        <div class="footer-contact">
+            <ul>
+                <li><a href="">Shipping & Returns</a></li>
+                <li><a href="">Store Policy</a></li>
+                <li><a href="">Payment Methods</a></li>
+                
+            </ul>
+            
+        </div>
+        <div class="footer-contact">
+            <ul>
+                <li><a href="">Contact:</a></li>
+                <li><a href="">Tel: 0827148109</a></li>
+                
+            </ul>
+    </div>
+    <div class="footer-contact">
+        <ul>
+            <li><a href="">Instagram</a></li>
+            <li><a href="">Pinterest</a></li>
+            <li><a href="">Youtube</a></li>
+        </ul>
+</div>
+<div class="action">
+    <form>
+        <input type="email" name="email" placeholder=" Email" required>
+        <input type="submit" name="submit" value="submit" required>
+       
+    </form>
+        
+</div>
+</div>
+ </div>
+
+
+
+ </body>
+</html>
